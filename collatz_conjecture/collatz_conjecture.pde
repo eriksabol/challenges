@@ -1,4 +1,4 @@
-// Collatz Conjecture based on Edmund Harris visualization
+// Collatz Conjecture based on Edmund Harris visualization rules
 // Processing 4.0
 
 void setup() {
